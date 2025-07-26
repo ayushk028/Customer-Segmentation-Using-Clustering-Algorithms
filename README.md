@@ -5,8 +5,6 @@
 
 **Customer Segmentation with Unsupervised Machine Learning Techniques**
 
-![Customer Segmentation (1)](https://user-images.githubusercontent.com/105715834/233505669-1b249cf7-075e-4655-9cc9-944ce0b9cbd1.gif)
-
 ---
 
 ## 📌 What is Customer Segmentation?
@@ -23,22 +21,22 @@ This project demonstrates how unsupervised machine learning techniques can be us
 
 ## 💡 Key Highlights
 
-- ✅ Implemented **K-Means**, **Hierarchical**, **Gaussian Mixture**, **Mini-batch KMeans**, and **DBSCAN** for segmentation
-- ✅ Visualized clusters using **PCA** and **2D scatter plots**
-- ✅ Evaluated cluster quality using **Elbow Method** and **Silhouette Score**
-- ✅ Created marketing personas to assist business decision-making
+- ✅ Implemented **K-Means**, **Hierarchical**, **Gaussian Mixture**, **Mini-batch KMeans**, and **DBSCAN** for segmentation  
+- ✅ Visualized clusters using **PCA** and **2D scatter plots**  
+- ✅ Evaluated cluster quality using **Elbow Method** and **Silhouette Score**  
+- ✅ Created marketing personas to assist business decision-making  
 
 ---
 
 ## 🧰 Tech Stack & Tools Used
 
-- Python 🐍
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- PCA
+- Python 🐍  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- PCA  
 - Power BI (for business-level dashboards)
 
 ---
@@ -53,8 +51,7 @@ Below is a GIF showcasing the clustering output using PCA-reduced 2D visualizati
 
 ## 📂 Dataset
 
-This project uses a public dataset from Kaggle:
-
+This project uses a public dataset from Kaggle:  
 🔗 [Customer Segmentation Dataset](https://www.kaggle.com/datasets/alifarahmandfar/customer-segmentation)
 
 ---
