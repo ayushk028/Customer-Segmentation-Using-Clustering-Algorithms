@@ -41,14 +41,6 @@ This project demonstrates how unsupervised machine learning techniques can be us
 
 ---
 
-## 📽️ Cluster Visualization
-
-Below is a GIF showcasing the clustering output using PCA-reduced 2D visualization:
-
-![Customer Segmentation Demo](https://user-images.githubusercontent.com/105715834/233505669-1b249cf7-075e-4655-9cc9-944ce0b9cbd1.gif)
-
----
-
 ## 📂 Dataset
 
 This project uses a public dataset from Kaggle:  
